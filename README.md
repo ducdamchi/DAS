@@ -1,5 +1,9 @@
 ************* USING GRAPH ALGORITHMS TO SOLVE CPP *************
 
+Last modified: Dec 2023
+
+Author: Duc Dam
+
 In this project, I organized the data structures learned in class
 in a way that they could be quickly modified to solve programming 
 problems. To demonstrate, I picked my favorite four problems of 
